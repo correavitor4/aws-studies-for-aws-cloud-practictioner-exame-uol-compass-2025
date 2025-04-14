@@ -1,0 +1,2 @@
+#Development
+Para devs que vão testar uma aplicação (web, mobile, híbirda, etc). Este serviço serve para testar nos mais diversos dispositivos. Isso ajuda a garantir que a aplicação irá funcionar em vários dispositivos diferentes. 

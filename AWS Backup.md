@@ -1,0 +1,2 @@
+É uma solução eficiente para para gerenciar backups nos mais diversos serviços da AWS.
+É possível também definir alertas e monitorar os backups. Eu posso, por exemplo, definir como serão os backups e qual a frequência dos mesmos, etc.

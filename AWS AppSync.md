@@ -1,0 +1,1 @@
+Serviço a ser utilizado, por exemplo, se eu tiver uma aplicação web e mobile, e tenho uma aplicação no meio delas. Este serviço garante a sincronização entre elas. Se, por exemplo, uma alteração for feita no app web, ela será replicada no mobile. Isso se aplica a GRAPHQL. 
