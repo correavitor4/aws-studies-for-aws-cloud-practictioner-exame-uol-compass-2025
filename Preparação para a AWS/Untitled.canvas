@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"795bfbaffa97cd97","type":"text","text":"Cliente","x":-440,"y":-400,"width":250,"height":60,"color":"1"},
+		{"id":"083099a0061321cd","type":"text","text":"Frontend","x":-371,"y":-140,"width":411,"height":50},
+		{"id":"624d7b45a7b3331b","type":"text","text":"Backend","x":-364,"y":49,"width":644,"height":71},
+		{"id":"8aa48b507ea6ea34","type":"text","text":"S3","x":520,"y":-240,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"fafa54b305cb3a35","fromNode":"795bfbaffa97cd97","fromSide":"bottom","toNode":"083099a0061321cd","toSide":"top","label":"1 Acessar"},
+		{"id":"b0f59541c7eb5df0","fromNode":"083099a0061321cd","fromSide":"bottom","toNode":"624d7b45a7b3331b","toSide":"top","label":"2 Solicita URL da Imagem do avatar do cliente"},
+		{"id":"78e50226aadcf024","fromNode":"624d7b45a7b3331b","fromSide":"right","toNode":"8aa48b507ea6ea34","toSide":"bottom","label":"3 Solicita um Presigned URL"},
+		{"id":"40792bd5ea6ade07","fromNode":"8aa48b507ea6ea34","fromSide":"right","toNode":"624d7b45a7b3331b","toSide":"bottom","label":"4 Devolve a Presigned URL"},
+		{"id":"69cd48a87b0486f0","fromNode":"624d7b45a7b3331b","fromSide":"left","toNode":"083099a0061321cd","toSide":"left","label":"5 Devolve a Presigned URL pro Frontend"},
+		{"id":"482951dec60418e6","fromNode":"083099a0061321cd","fromSide":"right","toNode":"8aa48b507ea6ea34","toSide":"left","label":"6 Acessa a Presigned URL"}
+	]
+}
