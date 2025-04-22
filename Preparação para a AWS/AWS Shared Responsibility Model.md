@@ -9,3 +9,4 @@ Application -> Usuário cuida
 User Data -> Usuário cuida
 
 Cada um faz a sua parte e assim se alcança um ambiente de desenvolvimento seguro.
+![[Pasted image 20250421170940.png]]
