@@ -31,10 +31,17 @@
             "id": "877e6b8a759ea93c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Preparação para a AWS/Untitled.canvas",
+                "viewState": {
+                  "x": 165,
+                  "y": -140,
+                  "zoom": -1.0451395056012753
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -192,38 +199,37 @@
   },
   "active": "877e6b8a759ea93c",
   "lastOpenFiles": [
-    "Preparação para a AWS/Bancos de Dados e Armazenamento.md",
     "Preparação para a AWS/Tipos de precificação de instâncias EC2.md",
+    "Preparação para a AWS/Sobre a formatura.md",
+    "Preparação para a AWS/Untitled.canvas",
+    "Preparação para a AWS/Security.md",
+    "Preparação para a AWS/Pricing and Support.md",
+    "Preparação para a AWS/Networking.md",
+    "Preparação para a AWS/Pasted image 20250410105327.png",
+    "Preparação para a AWS/Monitoring and Analytics.md",
+    "Preparação para a AWS/Message and Qeue.md",
+    "Preparação para a AWS/EFS.md",
+    "Preparação para a AWS/Global Infrastructure and Reliability.md",
+    "Preparação para a AWS/Conceitos de Cloud Computing (Computação em nuvem).md",
+    "Preparação para a AWS/Cloud Practictioner essencials.md",
+    "Preparação para a AWS/Cloud para negócios.md",
+    "Preparação para a AWS/Cafeteria.md",
+    "Preparação para a AWS/Amazon Comprehend.md",
+    "Preparação para a AWS/A Trusted Advisor.md",
+    "Untitled.canvas",
+    "Preparação para a AWS/Bancos de Dados e Armazenamento.md",
     "Preparação para a AWS/Amazon Well - Arc - Framework.md",
     "Preparação para a AWS/Amazon Lex.md",
-    "Preparação para a AWS/Amazon Comprehend.md",
     "Preparação para a AWS/Amazon Rekognition.md",
     "Preparação para a AWS/Anotações de Simulados/Simulado em Grupo dia 22 de abril de 2025.md",
     "Preparação para a AWS/Amazon Polly.md",
     "Preparação para a AWS/Amazon Kendra.md",
-    "Untitled.canvas",
     "Preparação para a AWS/Amazon STS - Security Token Service.md",
-    "Preparação para a AWS/Untitled.canvas",
     "Preparação para a AWS/Anotações de Simulados",
-    "Preparação para a AWS/Security.md",
-    "Preparação para a AWS/Networking.md",
     "Preparação para a AWS/Aws Cognito.md",
     "Preparação para a AWS/AWS IQ.md",
-    "Preparação para a AWS/CAF - Cloud adoption framework.md",
-    "Preparação para a AWS/Cloud Practictioner essencials.md",
-    "Preparação para a AWS/EFS.md",
-    "Preparação para a AWS/AWS Backup.md",
-    "Preparação para a AWS/Sobre a formatura.md",
-    "Preparação para a AWS/Pricing and Support.md",
-    "Preparação para a AWS/Monitoring and Analytics.md",
-    "Preparação para a AWS/Message and Qeue.md",
-    "Preparação para a AWS/Global Infrastructure and Reliability.md",
-    "Preparação para a AWS/Conceitos de Cloud Computing (Computação em nuvem).md",
-    "Preparação para a AWS/Cloud para negócios.md",
-    "Preparação para a AWS/Cafeteria.md",
     "Preparação para a AWS 1/Pasted image 20250410105327.png",
     "Preparação para a AWS 1",
-    "Preparação para a AWS/Pasted image 20250410105327.png",
     "Pasted image 20250410105327.png",
     "Preparação para a AWS"
   ]
