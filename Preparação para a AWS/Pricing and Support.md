@@ -26,3 +26,32 @@ Usado para que o usuário possa pagar a conta, monitorar o uso e fazer análises
 
 # Consolidated Billing
 #Billing #Consolidated #ConsolidatedBilling 
+É uma feature do AWS #Organizations que permite receber uma única conta de pagamento de todas as contas da AWS que estão na organização. 
+É possível verificar como foram os gastos de cada conta. 
+Uma vantagem é que é possível, por exemplo, compartilhar #ReservedIntances entre diferentes contas da organização. 
+
+
+# Budgets
+#Budgets
+São úteis para planejar uso de serviços, custos e custos. 
+As informações no AWS Budgets são atualizadas 3 vezes ao dia. 
+É possível estabelecer alertas para quando o uso excede o valor definido no Budget.
+
+
+# AWS Cost Explorer
+#CostExplorer
+É uma ferramento para visualizar, entender e gerenciar os custos da AWS e o uso ao longo do tempo. Ele mostra reportes de custos e uso dos 5 serviços principais das conta da AWS. É possível filtrar os dados e analisá-los mais detalhadamente.
+
+
+# Support 
+#Support #SupportPlans 
+A AWS oferece 4 diferentes planos de suporte para ajudar na resolução de problemas, custos e eficiência no uso dos serviços da AWS.
+Vamos discutir a respeito deles
+1. **Basic Support** #BasicSuport -> É gratuito para todos os clientes da AWS.
+	1. Inclui acesso a:
+		1. White Papers
+		2. Documentação
+		3. Suporte da comunidade
+	2. Tem acesso à uma seleção limitada de checagens do #TrustedAdvisor 
+	3. Também dá acesso ao #PersonalHealthDashboard 
+2. **Developer Support** #DeveloperSupport 

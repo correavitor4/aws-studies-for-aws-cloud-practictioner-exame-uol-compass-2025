@@ -47,6 +47,7 @@ Não precisa de muita descrição. Basicamente adiciona mais uma etapa ao login,
 A AWS Organizations permite que múltiplas contas sejam consolidadas e gerenciadas dentro de uma localização central.
 Quando uma organização é criada, um #Root é criado, sendo ele o pai de todas as contas da organização
 Com o AWS Organizations você pode definir permissões para as contas na organização usando Service Control Policies (SCPs) #SCP. Os SCPs estabelecem restrições à recursos, serviços e ações individuais de API que usuários e roles em cada conta da AWS.
+O número máximo de contas permitdas para uma Organization é 4, mas é possível contactar a AWS para aumentar a cota, caso seja necessário.
 
 #### Organizational Units (OUs)
 #OrganizationalUnits #OUs

@@ -15,6 +15,7 @@ Oferecem até 72% de economia, semelhante às Instâncias Reservadas (RIs) padr�
 
 
 ## Reserved Instances
+#ReservedIntances 
 São descontos aplicados no uso de Instâncias por demanda. Existem dois tipos de instâncias reservadas.
 #### Standard Reserved Instances
 Essa opção é boa quando você sabe o tipo de instância EC2 necessária e a região onde deve ser rodadas. Ademais, você tem que saber o tenancy e a descrição da plataforma (sistema operacional), ex: Microsoft Windows Server ou Red Hat Enterprise Linux
