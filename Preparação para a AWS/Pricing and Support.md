@@ -54,4 +54,47 @@ Vamos discutir a respeito deles
 		3. Suporte da comunidade
 	2. Tem acesso à uma seleção limitada de checagens do #TrustedAdvisor 
 	3. Também dá acesso ao #PersonalHealthDashboard 
-2. **Developer Support** #DeveloperSupport 
+2. **Developer Support** #DeveloperSupport -> Tem acesso a:
+	1. Guia de melhores práticas
+	2. Ferramentas de analise client-side
+	3. Suporte a arquitetura Building-block
+3.  **Business Support**  #BusinessSupport-> 
+	1. Todos as checagens do #TrustedAdvisor 
+	2. Suporte limitado a software de terceiros, como sistemas operacionais em comum.
+4. **Enterprise On-Ramp-Support** #Enterprise #EnterpriseOnRampSupport -> Além de incluir todas as features dos planos anteriores, ele também inclui:
+	1. Um arranjo de #TechnicalAccountManager 's para fornecer um guia proativo e coordenar acesso a programas e AWS #Experts
+	2. Workshop de otimização de custo
+	3. Uma equipe de suporte para cobrança e assistência de conta
+	4. Ferramentas para monitorar custos e performance através do #TrustedAdvisor e #HealthAPI / #DashBoard 
+	5. Também inclui acesso à um conjunto proativo de suportes de serviços
+		1. Revisão consultiva e orientação de arquitetura (uma por ano)
+		2. Suporte a Eventos de Gerenciamento de Infraestrutura (uma por ano)
+		3. Suporte a automação de workflows
+		4. 30 minutos ou menos de tempo de resposta para falhas críticas de negócio
+5. **Enterprise Support** #Enterprise #EnterpriseSupport -> Além de incluir tudo o que os planos de suporte anteriores incluem, ele também inclui:
+	1. Um #TechnicalAccountManager designado para promover guia proativa e coordenar acesso à programas e à #Experts 
+	2. Suporte de time Concierge para pagamento e assistência de contas
+	3. Análises de Operações e ferramentas de monitoramento de saíde #MonitorHealth
+	4. Treinamento e Game Days direcionados à inovação
+	5. Ferramentas para monitorar custos e performance através do #TrustedAdvisor e #HealthAPI / #DashBoard 
+	6. Também provém
+		1. Análise consultiva e guia de arquitetura
+		2. Suporte a Evento de Gerenciamento de Infraestrutura
+		3. Ferramente e workshops de Otimização de Custos
+		4. Suporte a automação de workflows
+		5. 15 minutos ou menos de tempo de resposta para falhas críticas de negócio.
+#### Technical Account Manager (TAM)
+#Tam #TechnicalAccountManager 
+Os planos #EnterpriseSupport e #EnterpriseOnRampSupport incluem acesso a um **Technical Account Manager**. 
+Ele educa, "empodera" e envolve a jornada de Cloud do cliente através de toda a gama de serviços da AWS. Ele fornece:
+1. Orientação #Expert em engenharia
+2. Ajuda no design de soluções que se integram eficientemente aos serviços da AWS
+3. Assistência de eficiência de custo e arquiteturas resilientes
+4. Provém acesso direto à programas da AWS e a uma ampla comunidade de experts.
+
+
+# AWS Marketplace
+#MarketPlace
+É um catálogo digital que incluem milhares de softwares listados de fornecedores de software independentes. 
+É possível encontrar, testar e comprar software que rodam na AWS. 
+Funciona como uma loja online, com curadoria da AWS, onde é possível comprar software prontos completamente integrados à AWS.
